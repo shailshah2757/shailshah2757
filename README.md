@@ -1,3 +1,5 @@
+![logo](https://github.com/shailshah2757/shailshah2757/blob/main/githubBanner.png)
+
 <h1 align="center">Hi 👋, I'm Shail Shah</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
 

@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/shailshah27" target="blank"><img src="https://img.shields.io/twitter/follow/shailshah27?logo=twitter&style=for-the-badge" alt="shailshah27" /></a> </p>
 
-- 🌱 I’m currently learning **Core concepts of application development**
-
 - 💬 Ask me about **HTML, CSS, JS, React JS, Node JS, Express JS, SQL, Android development using JAVA, Flutter**
 
-- 📫 How to reach me: **shailshah2772002@gmail.com**
+- 📫 Reach me: **shailshah2772002@gmail.com**
+
+- 🏠 Ahmedabad, Gujarat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

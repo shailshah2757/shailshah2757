@@ -1,7 +1,7 @@
 ![logo](https://github.com/shailshah2757/shailshah2757/blob/main/githubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Shail Shah</h1>
-<h3 align="center">A passionate Web and App developer from India</h3>
+<h3 align="center">A Passionate Developer from Gujarat</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" />
 
@@ -9,7 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/shailshah27" target="blank"><img src="https://img.shields.io/twitter/follow/shailshah27?logo=twitter&style=for-the-badge" alt="shailshah27" /></a> </p>
 
-- 💬 Ask me about **HTML, CSS, JS, React JS, Node JS, Express JS, SQL, Android development using JAVA, Flutter**
+- 🤖 Love to explore the new developing concepts
+
+- 📈 Currently exploring Cloud concepts
 
 - 📫 Reach me: **shailshah2772002@gmail.com**
 

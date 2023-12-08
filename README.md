@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailshah2757&label=Profile%20views&color=0e75b6&style=flat" alt="shailshah2757" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shailshah27" target="blank"><img src="https://img.shields.io/twitter/follow/shailshah27?logo=twitter&style=for-the-badge" alt="shailshah27" /></a> </p>
-
 - 🤖 Love to explore the new developing concepts
 
 - 📈 Currently exploring Cloud concepts
